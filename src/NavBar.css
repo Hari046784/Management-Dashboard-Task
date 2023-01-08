@@ -1,0 +1,24 @@
+nav div h5{
+    text-align: center;
+    background-color:#121122 ;
+    padding: 30px;
+    height: 100px;
+}
+
+.center{
+    align-items: center;
+    
+}
+span {
+   
+    background-color:#623183 ;
+    padding: 8px;
+    margin-right: 10px;
+    padding-top: 10px;
+    padding-right: 10px;
+    border-radius: 11px;
+}
+span:hover{
+    background-color: #129328;
+    color: black;
+}
